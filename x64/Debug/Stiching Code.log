@@ -1,7 +1,0 @@
-﻿D:\Installed\Visual Studio 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Stiching Code.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  main.cpp
-D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Stiching Code\main.cpp(20,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Stiching Code\main.cpp(66): warning C4715: 'handleGetRequests': not all control paths return a value
-  Stiching Code.vcxproj -> D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Stiching Code\x64\Debug\Trading Project.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
