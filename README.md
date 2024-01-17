@@ -30,7 +30,7 @@ Read the [Documentation](documentation.md).
 
 1. [Quick Start](#quick-start)
 2. [Limitations](#limitations)
-3. [Future Plans/To-Do List](#future-plans-to-do-list)
+3. [Future Plans/To-Do List](#future-plansto-do-list)
 4. [Abstract](#abstract)
 5. [Objective](#objective)
 
