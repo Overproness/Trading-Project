@@ -1,0 +1,5 @@
+# Ignore .vs folder
+src/.vs/
+
+# Ignore x64 folder in src
+src/x64/

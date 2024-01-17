@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\MyForm.h(122,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\MyForm.h(1293,31): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\MyForm.h(1383,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\MyForm.h(1390,32): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\MyForm.h(1456,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\MyForm.h(1477,31): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\MyForm.cpp(9,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  AI_Bot.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+CRUD_Request_helper_Functions.obj : warning LNK4248: unresolved typeref token (0100002D) for 'evp_md_st'; image may not run
+  Trading System With AI Integration.vcxproj -> D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

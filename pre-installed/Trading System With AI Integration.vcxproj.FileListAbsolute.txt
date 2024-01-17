@@ -1,0 +1,24 @@
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\libcrypto-3-x64.dll
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\libcurl-d.dll
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\zlibd1.dll
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.vcxproj.AssemblyReference.cache
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\Trading_System_With_AI_Integration.MyForm.resources
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.vcxproj.GenerateResource.cache
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.vcxproj.CopyComplete
+C:\Users\resea\OneDrive\Desktop\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.exe
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\Trading System With AI Integration.vcxproj.AssemblyReference.cache
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\Trading_System_With_AI_Integration.MyForm.resources
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\Trading System With AI Integration.vcxproj.GenerateResource.cache
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\Trading System With AI Integration.vcxproj.CopyComplete
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\Trading System With AI Integration.exe
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\libcrypto-3-x64.dll
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\libcurl-d.dll
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration - Copy\x64\Debug\zlibd1.dll
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.vcxproj.AssemblyReference.cache
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\Trading_System_With_AI_Integration.MyForm.resources
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.vcxproj.GenerateResource.cache
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.vcxproj.CopyComplete
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\Trading System With AI Integration.exe
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\libcrypto-3-x64.dll
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\libcurl-d.dll
+D:\OneDrive - National University of Sciences & Technology\Study\Semester 1\Fundamentals of Computer Programming\Project\Trading System With AI Integration\x64\Debug\zlibd1.dll
