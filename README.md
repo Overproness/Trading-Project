@@ -5,6 +5,11 @@
 
 Welcome to the Trading System with AI Integration project, a groundbreaking platform designed for real-time trading on diverse commodities within a real exchange. This project includes an advanced Artificially Intelligent Trading Bot that leverages historical data and machine learning techniques, achieving an impressive 60% Return on Investment (ROI). The primary objective is to democratize financial access, particularly in Pakistan, by providing a comprehensive platform with educational resources and an AI-powered trading system accessible to users of all backgrounds.
 
+Note: If you wanna contribute to the project, you can go to the ```src``` folder and open the ```.sln``` file or you can just edit the ```.cpp``` files themselves. You will need to have the ```.env``` file and the following 3rd party libraries installed:
+-  Nolhmann JSON
+-  Open SSL
+-  CURL
+
 ## Features
 1.	Allows users to place limit and market orders with varying leverage and margin.
 2.	View charts of the respective symbol
